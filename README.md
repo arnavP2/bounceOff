@@ -1,2 +1,2 @@
-# bounceOff
-djadnAN
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
